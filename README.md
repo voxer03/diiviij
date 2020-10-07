@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1>  Hello World! </h1>
+--><center>
+<h1 style="color:green;background-color:black;">  Hello World! </h1></center>
 <h2> I'm Divij Jain </h2>
-<h3>Hi, I'm   Divij jain , A Student and Lerner from Delhi, India, currently doing my undergraduate BCA (2nd year) from GGSIPU and I am passionate about technology and want to learn & explore new technologies I'm a Core Team Member of HackersMeetUp. Beside's Computer Science, I love cooking,Reading and playing football.
+<h3>Hi, I'm   Divij jain , A Student and Lerner from Delhi, India, currently doing my undergraduate BCA (2nd year) from GGSIPU and I am passionate about technology and want to learn & explore new technologies I'm a Core Team Member of HackersMeetUp. Beside's Computer Science, I love cooking,Reading and playing football.</h3>
+<h3>Talking about Personal Stuffs:
+  I’m currently partcipating in as much Hackathons as I can
+  mailbox How to reach me:divijrock1@gmail.com
+   <button style="color:green;background-color;black;"> <a href="https://diiviij.github.io/portfolio">myPortfolio</a></button>
+
