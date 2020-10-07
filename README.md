@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
-- 💬 My Portfolio   <a href="https://diiviij.github.io">Click ME </a>
+- 💬 My Portfolio   <a href="https://diiviij.github.io/portfolio">Click ME </a>
 - 📫 How to reach me: divijrock1@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact:  I’m currently partcipating in as much Hackathons as I can
