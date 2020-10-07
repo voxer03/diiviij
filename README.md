@@ -18,6 +18,6 @@
 <h3>Hi, I'm   Divij jain , A Student and Lerner from Delhi, India, currently doing my undergraduate BCA (2nd year) from GGSIPU and I am passionate about technology and want to learn & explore new technologies I'm a Core Team Member of HackersMeetUp. Beside's Computer Science, I love cooking,Reading and playing football.</h3>
 <h3>Talking about Personal Stuffs:
   I’m currently partcipating in as much Hackathons as I can
-  mailbox How to reach me:divijrock1@gmail.com
+  mailbox How to reach me:divijrock1@gmail.com :stuck_out_tongue_closed_eyes:
    <button> <a href="https://diiviij.github.io/portfolio">myPortfolio</a></button>
 
