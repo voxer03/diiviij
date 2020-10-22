@@ -9,7 +9,6 @@
 
    ![Divij's github stats](https://github-readme-stats.vercel.app/api?username=diiviij&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=diiviij)
 ![](https://komarev.com/ghpvc/?username=diiviij&color=green)
 
 
