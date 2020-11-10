@@ -12,5 +12,5 @@
 ![](https://komarev.com/ghpvc/?username=diiviij&color=green)
 
 
-<a href="https://diiviij.github.io">
+<a href="https://linkedin.com/in/divij-jain-625b651a5">
 <img src="dd.svg"></a></img>
