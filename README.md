@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/divij-jain-625b651a5"><img src="link.png"></a></img>
    
  <h2>Some Languages that I have experienced   </h2>
- <div >
+ <div style="background:black;width:90px;" >
    <img src="1.png">
    <img src="2.png">
    <img src="3.png">
