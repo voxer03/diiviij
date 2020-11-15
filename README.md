@@ -17,7 +17,7 @@
    
  <h2>Some Languages that I have experienced   </h2>
  <div style="heigth:5ex;" >
-   <img src="1.png"style="height:5ex;">
+   <img src="1.png" style="height:5ex;width:120px;">
    <img src="2.png">
    <img src="3.png">
    <img src="4.png">
