@@ -14,9 +14,11 @@
 
 
 <a href="https://linkedin.com/in/divij-jain-625b651a5"><img src="link.png"></a></img>
+
    
  <h2>Some Languages that I have experienced   </h2>
    
    <img src="7.png">
 
-</body>
+
+
