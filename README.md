@@ -16,11 +16,12 @@
 <a href="https://linkedin.com/in/divij-jain-625b651a5"><img src="link.png"></a></img>
    
  <h2>Some Languages that I have experienced   </h2>
+ <div >
    <img src="1.png">
    <img src="2.png">
    <img src="3.png">
    <img src="4.png">
    <img src="5.png">
-   <img src="6.png"></img></img></img></img></img></img>
-
+   <img src="6.png"></img>
+</div>
 </body>
