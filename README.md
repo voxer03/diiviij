@@ -9,6 +9,7 @@
 <h3> A Student and Learner from Delhi, India, currently doing my undergraduate BCA (2nd year) from GGSIPU and I am passionate about technology and want to learn & explore new technologies I'm a Core Team Member of HackersMeetUp. Beside's Computer Science, I love cooking,Reading and playing football.</h3>
 
    ![Divij's github stats](https://github-readme-stats.vercel.app/api?username=diiviij&count_private=true)
+   ![Divij's github stats](https://github-readme-stats.vercel.app/api?username=diiviij&count_private=true&color=green)
 
 ![](https://komarev.com/ghpvc/?username=diiviij&color=green)
 
@@ -19,7 +20,7 @@
  <div>
    
    <img src="1.png" style="height:5ex;width:120px;">
-   <img src="2.png" style="max-width:50ex;">
+   <img src="2.png" style="width:50ex;height:4ex;">
    <img src="3.png">
    <img src="4.png">
    <img src="5.png">
